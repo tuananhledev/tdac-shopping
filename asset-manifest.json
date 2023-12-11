@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tdac-shopping/static/css/main.80ce2827.css",
+    "main.js": "/tdac-shopping/static/js/main.ae8d4cc8.js",
+    "static/media/banner-4.jpg": "/tdac-shopping/static/media/banner-4.3681148f41b41de38b77.jpg",
+    "static/media/banner-8.jpg": "/tdac-shopping/static/media/banner-8.da3e97a8caba11d51354.jpg",
+    "static/media/banner-7.jpg": "/tdac-shopping/static/media/banner-7.f03786187092e827681f.jpg",
+    "static/media/banner-2.jpg": "/tdac-shopping/static/media/banner-2.9435d71f3b74b2454bd8.jpg",
+    "static/media/banner-6.jpg": "/tdac-shopping/static/media/banner-6.5c672a70324bd0558444.jpg",
+    "static/media/banner-1.jpg": "/tdac-shopping/static/media/banner-1.cd287c4a72815268789b.jpg",
+    "static/media/banner-5.jpg": "/tdac-shopping/static/media/banner-5.e91ceaa4b540d26567e9.jpg",
+    "static/media/banner-3.jpg": "/tdac-shopping/static/media/banner-3.fafa00c8152ea1eda536.jpg",
+    "static/media/slick.svg": "/tdac-shopping/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tdac-shopping/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tdac-shopping/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tdac-shopping/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/tdac-shopping/index.html",
+    "main.80ce2827.css.map": "/tdac-shopping/static/css/main.80ce2827.css.map",
+    "main.ae8d4cc8.js.map": "/tdac-shopping/static/js/main.ae8d4cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ce2827.css",
+    "static/js/main.ae8d4cc8.js"
+  ]
+}
